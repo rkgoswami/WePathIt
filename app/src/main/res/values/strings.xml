@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">WePathIt</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_email_already_exit">This email address is already registered</string>
+
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_mismatch_password">This password is not matching</string>
+
+    <string name="error_invalid_mobile_no">This mobile number is invalid</string>
+    <string name="error_mobile_no_already_exist">This mobile number is already registered</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="action_sign_up">Sign Up </string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="action_registration">Register</string>
+    <string name="action_registration_in_short">Sign In</string>
+    <string name="prompt_name">User Name</string>
+    <string name="prompt_mobile">Mobile Number</string>
+
+    <string name="theme_image">Theme Image</string>
+    <string name="title_activity_waiting_for_ride">Waiting For Ride</string>
+    <string name="title_activity_waiting_for_otp">Waiting For Otp</string>
+
+
+    <string name="gcm_send_message">Token retrieved and sent to server!</string>
+    <string name="registering_message">Generating InstanceID token…</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+
+
+    <string name="action_confirm_ride">Confirm</string>
+    <string name="action_cancel_ride">Cancel</string>
+    <string name="action_start_ride">Start Ride</string>
+
+
+    <string name="mobile_no">Mobile Number</string>
+    <string name="otp">OTP</string>
+    <string name="submit">Submit</string>
+    <string name="waitingMessage">Request has been successfully sent.!! Wait till the Auto-Driver responds.</string>
+
+
+    <!--Driver details in waiting activity-->
+    <string name="detail">DETAILS</string>
+    <string name="rideId">Ride Id : </string>
+    <string name="driverName">Driver : </string>
+    <string name="mobileNo">Mobile : </string>
+    <string name="autoNo">Auto No : </string>
+
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+
+</resources>
